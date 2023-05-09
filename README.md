@@ -1,1 +1,1 @@
-"data_analysis practice" 
+"Data_analysis & AI practice" 
